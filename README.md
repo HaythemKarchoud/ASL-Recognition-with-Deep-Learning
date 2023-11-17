@@ -1,4 +1,4 @@
-<h1>JWipe - American Sign Language with deep learning</h1>
+<h1> - American Sign Language with deep learning. </h1>
 
 
 <h2>Description</h2>
